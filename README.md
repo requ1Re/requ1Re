@@ -6,5 +6,6 @@ I'm a 19 year old from Germany. I just finished my apprenticeship as a Software 
 - E-Mail: github@patricklist.dev
 
 ---
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iRequire&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iRequire&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iRequire&show_icons=true&theme=dracula&count_private=true)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iRequire&theme=dracula&layout=compact)
+<!-- ![GitHub Top Languages (Public Repos)](https://github-readme-stats.vercel.app/api/top-langs/?username=iRequire&show_icons=true&theme=dracula&layout=compact) -->
