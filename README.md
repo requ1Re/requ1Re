@@ -3,7 +3,7 @@ I'm a 19 year old from Germany. I just finished my apprenticeship as a Software 
 
 ### :mailbox: Get in Touch
 - LinkedIn: https://www.linkedin.com/in/patrick-list-klz/
-- E-Mail: github@patricklist.dev
+- E-Mail: irequire@pm.me
 
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iRequire&show_icons=true&theme=dracula&count_private=true)
